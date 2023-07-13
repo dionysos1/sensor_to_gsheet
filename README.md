@@ -4,7 +4,7 @@ Uses a script for gsheets to handle a post msg that is send inside the arduino a
 
 ## Partlist
 
- - Arduino nano *// controller*
+ - ESP8266 (wemos_d1) *// controller*
  - DHT22 *// temp and humidity*
  - MQ135 *// gas analyser*
 
